@@ -1,13 +1,3 @@
 # Analise-de-Dados
-Objetivo
-Aprenda o básico sobre contribuição no GitHub.
+O desafio fazer a coleta desse BD utilizando o power BI e logo após transformar os dados afim de deixar-los aptos para a criação de relatório.
 
-Ferramentas
-GitHub Git
-
-Porcurso
-Não	Etapas
-01	Introdução ao Lab
-02	Formas de Contribuir num Projeto Open Source
-03	Desenvolvendo e Enviando uma Contribuição
-04	Dicas e Materiais de Apoio
